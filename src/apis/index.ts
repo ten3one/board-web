@@ -39,7 +39,7 @@ import {
   UpdateUserInfoRequestDto,
 } from "./request/user";
 
-const DOMAIN = "http://15.165.74.38:4000";
+const DOMAIN = "http://localhost:4000";
 
 const API_DOMAIN = `${DOMAIN}/api/v1`;
 
